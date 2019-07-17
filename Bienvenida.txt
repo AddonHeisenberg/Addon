@@ -1,0 +1,3 @@
+texto1="[COLOR lime]HEISENBERG[/COLOR]"
+texto2="[COLOR gold]Muy Pronto [/COLOR]"
+texto3="[COLOR gold]Bienvenidos [/COLOR]"
