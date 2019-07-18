@@ -1,3 +1,5 @@
-texto1="[COLOR lime]HEISENBERG[/COLOR]"
-texto2="[COLOR gold]Muy Pronto [/COLOR]"
-texto3="[COLOR gold]Bienvenidos [/COLOR]"
+    line1 = "[B][COLOR red]ADDON HEISENBERG[/COLOR][/B]"
+
+    line2 = "[B][COLOR red]BIENVENIDO[/COLOR][/B]"
+
+    line3 = "[B][COLOR red]ADENTRATE EN LO IMPOSIBLE[/COLOR][/B]"
